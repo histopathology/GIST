@@ -1,0 +1,2 @@
+Fu, Y., Karanian, M., Perret, R. et al. Deep learning predicts patients outcome and mutations from digitized histology slides in gastrointestinal stromal tumor. npj Precis. Onc. 7, 71 (2023). https://doi.org/10.1038/s41698-023-00421-9
+https://www.nature.com/articles/s41698-023-00421-9#MOESM1
